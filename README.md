@@ -21,7 +21,7 @@ I turn operational complexity into products people rely on. I've spent the last 
 
 ### Currently
 
-- 🛠️ Building product & analytics projects here — AI-assisted product development, dashboards, and automation tools
+- 🛠️ Just shipped **[DC Pulse](https://github.com/nihaashrivastava/dc-pulse)** — an operations dashboard for DC automation programs ([live demo](https://nihaashrivastava.github.io/dc-pulse/))
 - 📚 Going deep on applied AI for operations and product work
 - 🌱 IBM Enterprise Design Thinking Practitioner
 
